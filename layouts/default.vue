@@ -1,0 +1,4 @@
+<template>
+    <TopBarComponent/>
+    <slot/>
+</template>
