@@ -5,7 +5,8 @@
       src="/Background.jpg" 
       class="w-full h-full object-cover object-top"
     />
-    <ApplicationComponent v-for="app in apps.activeApplications" :app="app" />
+      
+    <ApplicationComponent v-for="app in apps.activeApplications" :key="app.applicationName" :app="app" />
    
   </main>
 </template>
