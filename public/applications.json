@@ -1,3 +1,27 @@
-{
-    
-}
+[
+    {
+      "applicationName": "Seminaries",
+      "applicationIcon": "/appIcons/seminaries.png"
+    },
+    {
+      "applicationName": "Persoonlijke Ontwikkeling",
+      "applicationIcon": "/appIcons/persoonlijke_ontwikkeling.png"
+    },
+    {
+      "applicationName": "Innovatie Route",
+      "applicationIcon": "/appIcons/innovatie_route.png"
+    },
+    {
+      "applicationName": "Hackaton",
+      "applicationIcon": "/appIcons/hackaton.png"
+    },
+    {
+      "applicationName": "Internationalisering",
+      "applicationIcon": "/appIcons/internationalisering.png"
+    },
+    {
+      "applicationName": "Student Engagement",
+      "applicationIcon": "/appIcons/student_engagement.png"
+    }
+  ]
+  
