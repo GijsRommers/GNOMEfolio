@@ -1,3 +1,3 @@
 <template>
-    <DesktopComponent :fullWidth="true"/>
+    <DesktopComponent/>
 </template>
