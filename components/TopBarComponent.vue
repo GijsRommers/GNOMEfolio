@@ -1,5 +1,5 @@
 <template>
-    <section class="bg-black px-1 h-8 shadow-2xl shadow-black fixed w-full flex flex-row items-center z-30">
+    <section class="bg-black select-none px-1 h-8 shadow-2xl shadow-black fixed w-full flex flex-row items-center z-30">
         <div class="flex-1"></div>
         
         <div class="text-white font-semibold px-4 rounded-full text-md hover:bg-gray-400/30 transition-all cursor-pointer">

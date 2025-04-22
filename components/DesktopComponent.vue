@@ -1,5 +1,5 @@
 <template>
-  <main class="w-screen h-screen overflow-hidden relative">
+  <main class="w-screen select-none h-screen overflow-hidden relative">
     <NuxtImg 
       format="webp" 
       src="/Background.jpg" 
