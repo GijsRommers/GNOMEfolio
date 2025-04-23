@@ -20,10 +20,15 @@ export const useApplicationStore = defineStore('application', () => {
     }
     else {
       activeApplications.value.push(app)      
-    }
-    console.log(activeApplications.value);
-    
+    }   
     router.push('/')
+  }
+
+
+  async function fetchMarkdown(app) {
+    const response = await fetch(app.applicationData)
+    const markdown = await response.text()    
+    return markdown
   }
 
   function closeApplication(app) {
@@ -40,6 +45,7 @@ export const useApplicationStore = defineStore('application', () => {
     openApplication,
     activeApplications,
     applications,
-    loadApplications
+    loadApplications,
+    fetchMarkdown
   }
 })

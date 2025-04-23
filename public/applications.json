@@ -1,27 +1,43 @@
 [
     {
       "applicationName": "Seminaries",
-      "applicationIcon": "/appIcons/seminaries.png"
+      "applicationIcon": "/appIcons/seminaries.png",
+      "applicationData": "/appData/seminaries.md"
     },
     {
       "applicationName": "Persoonlijke Ontwikkeling",
-      "applicationIcon": "/appIcons/persoonlijke_ontwikkeling.png"
+      "applicationIcon": "/appIcons/persoonlijke_ontwikkeling.png",
+      "applicationData": "/appData/persoonlijke_ontwikkeling.md"
     },
     {
       "applicationName": "Innovatie Route",
-      "applicationIcon": "/appIcons/innovatie_route.png"
+      "applicationIcon": "/appIcons/innovatie_route.png",
+      "applicationData": "/appData/innovatie_route.md"
     },
     {
       "applicationName": "Hackaton",
-      "applicationIcon": "/appIcons/hackaton.png"
+      "applicationIcon": "/appIcons/hackaton.png",
+      "applicationData": "/appData/hackaton.md"
     },
     {
       "applicationName": "Internationalisering",
-      "applicationIcon": "/appIcons/internationalisering.png"
+      "applicationIcon": "/appIcons/internationalisering.png",
+      "applicationData": "/appData/internationalisering.md"
     },
     {
       "applicationName": "Student Engagement",
-      "applicationIcon": "/appIcons/student_engagement.png"
-    }
+      "applicationIcon": "/appIcons/student_engagement.png",
+      "applicationData": "/appData/student_engagement.md"
+    },
+    {
+      "applicationName": "Over Mij",
+      "applicationIcon": "/appIcons/settings.png",
+      "applicationData": "/appData/settings.md"
+    },
+    {
+      "applicationName": "Reflectie",
+      "applicationIcon": "/appIcons/X-Factor.png",
+      "applicationData": "/appData/X-Factor.md"
+    }    
   ]
   

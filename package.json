@@ -23,5 +23,8 @@
     "vue-draggable-resizable": "^3.0.0",
     "vue-draggable-resizable-next": "^1.0.7",
     "vue-router": "^4.5.0"
+  },
+  "devDependencies": {
+    "nuxt-markdown-render": "^2.1.0"
   }
 }
