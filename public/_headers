@@ -1,2 +1,2 @@
 /*
-  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-eval'; worker-src 'self'; object-src 'none'; style-src 'self' 'unsafe-inline'; base-uri 'self'; connect-src *; img-src * blob: data:; media-src *; font-src 'self'; frame-src 'self'
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-eval' 'wasm-unsafe-eval'; worker-src 'self'; object-src 'none'; style-src 'self' 'unsafe-inline'; base-uri 'self'; connect-src *; img-src * blob: data:; media-src *; font-src 'self'; frame-src 'self'
